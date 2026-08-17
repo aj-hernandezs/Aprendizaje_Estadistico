@@ -1,1 +1,1 @@
-# Aprendizaje_Estad-stico
+# Aprendizaje_Estadistico
